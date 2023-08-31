@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Imam Arif Darmawan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imm255&label=Profile%20views&color=0e75b6&style=flat" alt="imm255" /> </p>
 
